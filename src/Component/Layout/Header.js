@@ -28,7 +28,7 @@ const Header = () => {
         </div>
       </div>
       <div
-        className="flex text-sm  font-bold justify-start gap-5 p-3 px-5"
+        className="flex lg:text-sm text-[10px] font-bold justify-start  items-center gap-5 p-3 px-5"
         style={{ backgroundColor: bgball, color: bgtext }}
       >
         <p className="hover:underline">HOME</p>
